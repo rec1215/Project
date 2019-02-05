@@ -12,7 +12,7 @@ This project will create a .csv file which contains one-minute precipitation dat
 #### <u>Sketch
 <img src="WorkflowSketch.png" alt="Workflow" width="500"/>
  
-   
+    
 #### <u>References
 
 Carpenter, S.R., N.F. Caraco, D.L. Correll, R.W. Howarth, A.N. Sharpley and V.H. Smith.  1998. Nonpoint pollution of surface waters with phosphorus and nitrogen. Ecological Applications. 8:559-568.
