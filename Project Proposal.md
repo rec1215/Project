@@ -2,8 +2,8 @@
 # Runoff Event Based Precipitaiton Data
 
 **Name:** Elliott Carver<br/>
-**Semester:** Spring 2019
-**Area:** Agronomy 
+**Semester:** Spring 2019<br/>
+**Area:** Agronomy<br/>
 
 #### <u>Background
 Phosphorus (P) loss from agricultural production is a significant contributor to surface water contamination. Excessive inputs of P to surface waters can lead to eutrophication, potentially causing an increase in algal and aquatic plant growth (Correll, 1998; Carpenter et al., 1998). Eutrophication, and associated harmful algal blooms, are conservatively estimated to cost the United States’ economy 2.4-4.6 billion dollars a year and it has been estimated that up to 70% of all P that reaches surface waters is linked to a nonpoint agricultural source (Havlin et al., 2005; Dodds et al., 2009). The linkage between nonpoint agricultural P pollution and the degradation of surface water quality has created a need for new agricultural best management practices (BMP) to reduce P loss. To do this, a multiyear, large-scale, trial was run to examine the impacts of cover-crops and phosphorus fertilizer placement on P loss in surface runoff from natural precipitation events. 
