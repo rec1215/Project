@@ -13,7 +13,7 @@ As part of this research project, one-minute interval precipitation data was rec
     
 
 #### <u>Outcomes
-This project will calculate the average total rainfall for a given timeframe pluse create a .csv file which contains daily precipitation data for the given precipitation event. 
+This project will calculate the average total rainfall for a given timeframe pluse create a .csv file which contains daily precipitation data for the given precipitation event. In addition, this code plots daily rainfall levels to enable the user to visualize rainfall distribution over the time frame of interest. 
 
 #### <u>Workflow
 <img src="WorkflowSketch.jpg" alt="Workflow" width="500"/>
